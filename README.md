@@ -11,12 +11,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <a href="https://calendly.com/concara3443/15min" target="_blank"><img width="498" alt="meet_link" src="https://i.imgur.com/1ZwQj1h.png"></a>
 
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
 ### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"> A little more about me...  
 
