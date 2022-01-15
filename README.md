@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, i`m Guillermo Cortés! <img src="https://media.giphy.com/media/PiuVH04cd9JcmqqWKK/giphy.gif" width="50"></h2>
-<p><em>Director and Developer at <a href="https://mediteavirtual.es/">Meditea</a>
+<p><em>Director and Developer for <a href="https://mediteavirtual.es/">Meditea</a>
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/concara3443?label=Follow)](https://twitter.com/intent/follow?screen_name=concara3443)
