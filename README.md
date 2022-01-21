@@ -16,14 +16,14 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ```javascript
 const Guillermo = {
-    code: ["Javascript", "HTML"],
+    code: ["Javascript"],
     askMeAbout: ["Aviation", "Discord Bots", "Tech"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node"],
         },
-        devOps: ["AWS", "Heroku"],
-        databases: ["MySql", "sqlite", "mongo", "redis"],
+        devOps: ["Heroku"],
+        databases: ["MySql"],
     },
     currentFocus: "Discord Bots Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
