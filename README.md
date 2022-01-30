@@ -33,13 +33,13 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 100 Contributions in the Year 2022
+> 🏆 101 Contributions in the Year 2022
  > 
 > 📦 54.9 kB Used in GitHub's Storage 
  > 
@@ -78,17 +78,17 @@ Sunday       86 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               13 hrs 54 mins      ███████████████████░░░░░░   79.13% 
-JSON                     2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.3% 
-EJS                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.04% 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36% 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+JavaScript               12 hrs 36 mins      ██████████████████████░░░   88.7% 
+JSON                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.44% 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 🔥 Editors: 
-VS Code                  17 hrs 34 mins      █████████████████████████   100.0%
+VS Code                  14 hrs 12 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  17 hrs 34 mins      █████████████████████████   100.0%
+Windows                  14 hrs 12 mins      █████████████████████████   100.0%
 
 ```
 
@@ -107,7 +107,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Concara3443/Concara3443/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2022 00:01:18 UTC
+ Last Updated on 30/01/2022 00:01:11 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
