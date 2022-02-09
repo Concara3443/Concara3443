@@ -33,13 +33,13 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 108 Contributions in the Year 2022
+> 🏆 114 Contributions in the Year 2022
  > 
 > 📦 55.0 kB Used in GitHub's Storage 
  > 
@@ -61,13 +61,13 @@ const Guillermo = {
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.09% 
+Monday       65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
 Tuesday      76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Wednesday    49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.21% 
+Wednesday    48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.02% 
 Thursday     50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.4% 
 Friday       105 commits    █████░░░░░░░░░░░░░░░░░░░░   19.74% 
-Saturday     104 commits    █████░░░░░░░░░░░░░░░░░░░░   19.55% 
-Sunday       89 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.73%
+Saturday     102 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.17% 
+Sunday       86 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.17%
 
 ```
 
@@ -78,16 +78,17 @@ Sunday       89 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               6 hrs 19 mins       ███████████████████████░░   92.37% 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.95% 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+JavaScript               11 hrs 7 mins       ██████████████████████░░░   90.6% 
+JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-VS Code                  6 hrs 51 mins       █████████████████████████   100.0%
+VS Code                  12 hrs 16 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 51 mins       █████████████████████████   100.0%
+Windows                  12 hrs 16 mins      █████████████████████████   100.0%
 
 ```
 
@@ -106,7 +107,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Concara3443/Concara3443/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/02/2022 00:55:35 UTC
+ Last Updated on 09/02/2022 00:58:48 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
