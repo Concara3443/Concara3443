@@ -17,7 +17,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```javascript
 const Guillermo = {
     code: "Javascript",
-    askMeAbout: "Aviation", "Discord Bots", "Tech",
+    askMeAbout: ["Aviation", "Discord Bots", "Tech"],
     technologies: {
         backEnd: {
             js: "Node",
