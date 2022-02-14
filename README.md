@@ -33,7 +33,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -78,17 +78,17 @@ Sunday       86 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               10 hrs 40 mins      ███████████████████████░░   93.02% 
-JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.52% 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4% 
+JavaScript               10 hrs 1 min        ███████████████████████░░   93.12% 
+JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  11 hrs 28 mins      █████████████████████████   100.0%
+VS Code                  10 hrs 45 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  11 hrs 28 mins      █████████████████████████   100.0%
+Windows                  10 hrs 45 mins      █████████████████████████   100.0%
 
 ```
 
@@ -107,7 +107,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Concara3443/Concara3443/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/02/2022 00:57:31 UTC
+ Last Updated on 14/02/2022 00:54:55 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
