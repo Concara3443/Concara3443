@@ -33,7 +33,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -78,16 +78,16 @@ Sunday       86 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               22 mins             ████████████████░░░░░░░░░   66.16% 
-JSON                     11 mins             ████████░░░░░░░░░░░░░░░░░   33.11% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+JavaScript               21 mins             ████████████████░░░░░░░░░   65.69% 
+JSON                     11 mins             ████████░░░░░░░░░░░░░░░░░   33.57% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.0%
+VS Code                  32 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.0%
+Windows                  32 mins             █████████████████████████   100.0%
 
 ```
 
@@ -106,7 +106,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Concara3443/Concara3443/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/02/2022 00:57:40 UTC
+ Last Updated on 22/02/2022 00:58:08 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
