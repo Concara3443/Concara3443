@@ -33,13 +33,13 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 137 Contributions in the Year 2022
+> 🏆 144 Contributions in the Year 2022
  > 
 > 📦 56.5 kB Used in GitHub's Storage 
  > 
@@ -52,22 +52,22 @@ const Guillermo = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.03% 
-🌆 Daytime    175 commits    ████████░░░░░░░░░░░░░░░░░   31.99% 
-🌃 Evening    323 commits    ██████████████░░░░░░░░░░░   59.05% 
-🌙 Night      16 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93%
+🌞 Morning    32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.83% 
+🌆 Daytime    174 commits    ████████░░░░░░░░░░░░░░░░░   31.69% 
+🌃 Evening    327 commits    ███████████████░░░░░░░░░░   59.56% 
+🌙 Night      16 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.25% 
-Tuesday      80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
-Wednesday    57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.42% 
-Thursday     54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.87% 
-Friday       102 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.65% 
-Saturday     101 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.46% 
-Sunday       86 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.72%
+Monday       74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
+Tuesday      80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
+Wednesday    57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
+Thursday     53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.65% 
+Friday       101 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.4% 
+Saturday     100 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.21% 
+Sunday       84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.3%
 
 ```
 
@@ -103,7 +103,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Concara3443/Concara3443/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/02/2022 01:02:43 UTC
+ Last Updated on 01/03/2022 01:08:11 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
