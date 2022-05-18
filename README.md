@@ -35,13 +35,13 @@ const Guillermo = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 267 Contributions in the Year 2022
+> 🏆 273 Contributions in the Year 2022
  > 
 > 📦 92.1 kB Used in GitHub's Storage 
  > 
@@ -54,22 +54,22 @@ const Guillermo = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    40 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.21% 
-🌆 Daytime    221 commits    ████████░░░░░░░░░░░░░░░░░   34.32% 
-🌃 Evening    363 commits    ██████████████░░░░░░░░░░░   56.37% 
-🌙 Night      20 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.11%
+🌞 Morning    40 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.17% 
+🌆 Daytime    222 commits    ████████░░░░░░░░░░░░░░░░░   34.26% 
+🌃 Evening    366 commits    ██████████████░░░░░░░░░░░   56.48% 
+🌙 Night      20 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.09%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-Tuesday      107 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.61% 
-Wednesday    79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.27% 
-Thursday     55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.54% 
-Friday       93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
-Saturday     113 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.55% 
-Sunday       113 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.55%
+Monday       84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
+Tuesday      111 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.13% 
+Wednesday    79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.19% 
+Thursday     55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.49% 
+Friday       93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.35% 
+Saturday     113 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.44% 
+Sunday       113 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.44%
 
 ```
 
@@ -105,7 +105,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Concara3443/Concara3443/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/05/2022 01:24:18 UTC
+ Last Updated on 18/05/2022 01:14:50 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
