@@ -1,6 +1,8 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, i`m Guillermo Cortés! <img src="https://media.giphy.com/media/PiuVH04cd9JcmqqWKK/giphy.gif" width="50"></h2>
 <p><em>Director and Lead Developer for <a href="https://mediteavirtual.es/">Meditea</a>
 </em></p>
+<p><em>Discord bot developer for <a href="https://discord.comunidadgladiator.com">Gladiator Community</a>, <a href="https://discord.gg/UpvpkUbGdA">480 Crew</a> and <a href="https://discord.gg/dmMRQgH3tu">480 RolePlay</a>
+</em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/concara3443?label=Follow)](https://twitter.com/intent/follow?screen_name=concara3443)
 ![GitHub followers](https://img.shields.io/github/followers/concara3443?label=Follow&style=social)
