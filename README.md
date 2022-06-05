@@ -82,16 +82,16 @@ Sunday       113 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               5 hrs 23 mins       ████████████████████████░   96.2% 
-Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.49% 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.24% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+JavaScript               5 hrs 56 mins       ████████████████████████░   96.53% 
+Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27% 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-VS Code                  5 hrs 36 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 9 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  5 hrs 36 mins       █████████████████████████   100.0%
+Windows                  6 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
@@ -110,7 +110,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Concara3443/Concara3443/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/06/2022 01:17:42 UTC
+ Last Updated on 05/06/2022 01:29:14 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
