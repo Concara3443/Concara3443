@@ -45,7 +45,7 @@ const Guillermo = {
 
 > 🏆 348 Contributions in the Year 2022
  > 
-> 📦 92.3 kB Used in GitHub's Storage 
+> 📦 92.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -82,16 +82,16 @@ Sunday       116 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               2 hrs 26 mins       ████████████████████████░   97.63% 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61% 
+JavaScript               2 hrs 5 mins        ████████████████████████░   97.25% 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.03% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  2 hrs 29 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 9 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 29 mins       █████████████████████████   100.0%
+Windows                  2 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
@@ -110,7 +110,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Concara3443/Concara3443/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/06/2022 01:32:45 UTC
+ Last Updated on 26/06/2022 01:32:22 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
