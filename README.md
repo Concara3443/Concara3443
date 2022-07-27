@@ -37,7 +37,7 @@ const Guillermo = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -82,17 +82,16 @@ Sunday       108 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               1 hr 34 mins        ███████████░░░░░░░░░░░░░░   46.01% 
-TypeScript               1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   33.67% 
-JSON                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
+JavaScript               2 hrs 49 mins       ████████████████████░░░░░   80.93% 
+JSON                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.99% 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  3 hrs 25 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 29 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 25 mins       █████████████████████████   100.0%
+Windows                  3 hrs 29 mins       █████████████████████████   100.0%
 
 ```
 
@@ -111,7 +110,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Concara3443/Concara3443/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/07/2022 01:54:25 UTC
+ Last Updated on 27/07/2022 01:47:57 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
