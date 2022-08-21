@@ -35,7 +35,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -82,17 +82,17 @@ Sunday       105 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               6 hrs 13 mins       ██████████████████████░░░   90.26% 
-Lua                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.05% 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.89% 
-PHP                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36% 
-Batchfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
+JavaScript               6 hrs 32 mins       ██████████████████████░░░   89.62% 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.24% 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26% 
+Lua                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91% 
+PHP                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
 
 🔥 Editors: 
-VS Code                  6 hrs 42 mins       █████████████████████████   100.0%
+VS Code                  7 hrs 17 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 42 mins       █████████████████████████   100.0%
+Windows                  7 hrs 17 mins       █████████████████████████   100.0%
 
 ```
 
@@ -111,7 +111,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Concara3443/Concara3443/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/08/2022 01:39:29 UTC
+ Last Updated on 21/08/2022 01:35:26 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
