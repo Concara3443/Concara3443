@@ -35,7 +35,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -53,6 +53,47 @@ const Guillermo = {
  > 
 > 🔑 26 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    53 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.1% 
+🌆 Daytime    264 commits    ████████░░░░░░░░░░░░░░░░░   35.39% 
+🌃 Evening    405 commits    █████████████░░░░░░░░░░░░   54.29% 
+🌙 Night      24 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.22%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
+Tuesday      130 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.43% 
+Wednesday    88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
+Thursday     80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.72% 
+Friday       114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
+Saturday     118 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.82% 
+Sunday       109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.61%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+JavaScript               4 hrs 37 mins       ███████████████████████░░   94.96% 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.96% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+
+🔥 Editors: 
+VS Code                  4 hrs 52 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  4 hrs 52 mins       █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -68,7 +109,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Concara3443/Concara3443/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/09/2022 02:02:40 UTC
+ Last Updated on 06/09/2022 02:08:39 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
