@@ -35,7 +35,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -43,7 +43,7 @@ const Guillermo = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 457 Contributions in the Year 2022
+> 🏆 463 Contributions in the Year 2022
  > 
 > 📦 104.0 kB Used in GitHub's Storage 
  > 
@@ -53,48 +53,6 @@ const Guillermo = {
  > 
 > 🔑 26 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    53 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.04% 
-🌆 Daytime    266 commits    ████████░░░░░░░░░░░░░░░░░   35.33% 
-🌃 Evening    410 commits    █████████████░░░░░░░░░░░░   54.45% 
-🌙 Night      24 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.74% 
-Tuesday      133 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.66% 
-Wednesday    88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.69% 
-Thursday     80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
-Friday       113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.01% 
-Saturday     118 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
-Sunday       110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.61%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-JavaScript               7 hrs 36 mins       ███████████████████████░░   95.06% 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
-
-🔥 Editors: 
-VS Code                  8 hrs               █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  8 hrs               █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -110,7 +68,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Concara3443/Concara3443/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2022 02:01:45 UTC
+ Last Updated on 14/09/2022 01:54:39 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
