@@ -35,7 +35,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,7 +45,7 @@ const Guillermo = {
 
 > 🏆 508 Contributions in the Year 2022
  > 
-> 📦 192.1 kB Used in GitHub's Storage 
+> 📦 192.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -110,7 +110,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Concara3443/Concara3443/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/10/2022 01:45:53 UTC
+ Last Updated on 04/10/2022 02:01:48 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
