@@ -4,15 +4,10 @@
 <p><em>Discord bot developer for <a href="https://discord.comunidadgladiator.com">Gladiator Community</a>, <a href="https://discord.gg/UpvpkUbGdA">480 Crew</a> and <a href="https://discord.gg/dmMRQgH3tu">480 RolePlay</a>
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/concara3443?label=Follow)](https://twitter.com/intent/follow?screen_name=concara3443)
-![GitHub followers](https://img.shields.io/github/followers/concara3443?label=Follow&style=social)
-
 ### 📫 Like to meet me?
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/concara3443/15min" target="_blank"><img width="498" alt="meet_link" src="https://i.imgur.com/1ZwQj1h.png"></a>
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/concara3443?label=Follow)](https://twitter.com/intent/follow?screen_name=concara3443)
+![GitHub followers](https://img.shields.io/github/followers/concara3443?label=Follow&style=social)
 
 ### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"> A little more about me...  
 
