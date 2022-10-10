@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -77,17 +77,17 @@ Sunday       121 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               7 hrs 46 mins       ███████████████████░░░░░░   79.23% 
-JSON                     1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.96% 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37% 
-EJS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43% 
+JavaScript               6 hrs 35 mins       ████████████████████░░░░░   82.13% 
+JSON                     1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68% 
+EJS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  9 hrs 49 mins       █████████████████████████   100.0%
+VS Code                  8 hrs 1 min         █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  9 hrs 49 mins       █████████████████████████   100.0%
+Windows                  8 hrs 1 min         █████████████████████████   100.0%
 
 ```
 
@@ -105,7 +105,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Concara3443/Concara3443/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/10/2022 02:02:19 UTC
+ Last Updated on 10/10/2022 02:03:23 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
