@@ -77,17 +77,16 @@ Sunday       123 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               3 hrs 41 mins       ████████████████░░░░░░░░░   66.67% 
-JSON                     1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   30.74% 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.32% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+JavaScript               1 hr 43 mins        ███████████████░░░░░░░░░░   59.97% 
+JSON                     1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   35.47% 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.25% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
 
 🔥 Editors: 
-VS Code                  5 hrs 31 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 52 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  5 hrs 31 mins       █████████████████████████   100.0%
+Windows                  2 hrs 52 mins       █████████████████████████   100.0%
 
 ```
 
@@ -105,7 +104,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Concara3443/Concara3443/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/10/2022 01:57:16 UTC
+ Last Updated on 24/10/2022 02:14:58 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
