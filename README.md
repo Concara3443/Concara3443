@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -77,16 +77,16 @@ Sunday       123 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               1 hr 30 mins        ████████████████████████░   98.35% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1% 
+JavaScript               1 hr 30 mins        ████████████████████████░   98.33% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12% 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34% 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        █████████████████████████   100.0%
+VS Code                  1 hr 32 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 31 mins        █████████████████████████   100.0%
+Windows                  1 hr 32 mins        █████████████████████████   100.0%
 
 ```
 
@@ -104,7 +104,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Concara3443/Concara3443/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/10/2022 01:49:17 UTC
+ Last Updated on 28/10/2022 02:02:03 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
