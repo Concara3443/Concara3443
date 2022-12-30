@@ -30,6 +30,15 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 17 hrs 51 mins
+
+JavaScript   16 hrs 56 mins  ███████████████████████▒░   93.84 %
+JSON         51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+```
+
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
