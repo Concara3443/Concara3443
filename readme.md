@@ -32,11 +32,11 @@ const Guillermo = {
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 17 hrs 18 mins
+Total Time: 12 hrs 31 mins
 
-JavaScript   16 hrs 40 mins  ███████████████████████▓░   95.10 %
-JSON         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+JavaScript   12 hrs 4 mins   ███████████████████████▓░   94.86 %
+JSON         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
