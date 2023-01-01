@@ -17,4 +17,5 @@ jobs:
           SHOW_TOTAL: "true"
           SHOW_LINES_OF_CODE: "true"
           SHOW_UPDATED_DATE: "true"
-          LOCALE: "es"
+          LOCALE: "en"
+#           LOCALE: "es"
