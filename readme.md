@@ -75,19 +75,18 @@ Sunday                   412 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               15 mins             █████████████░░░░░░░░░░░░   50.81 % 
-Python                   14 mins             ████████████░░░░░░░░░░░░░   47.04 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Python                   14 mins             █████████████████████████   98.04 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.00 % 
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Gladiator-Dev            16 mins             █████████████░░░░░░░░░░░░   52.96 % 
-Unknown Project          14 mins             ████████████░░░░░░░░░░░░░   47.04 % 
+Unknown Project          14 mins             █████████████████████████   98.04 % 
+Gladiator-Dev            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.00 % 
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +106,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2023 00:44:00 UTC
+ Last Updated on 30/03/2023 00:40:41 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
