@@ -75,13 +75,15 @@ Sunday                   381 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   19 mins             █████████████████████████   100.00 % 
+Python                   19 mins             █████████████████████████   98.75 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
 VS Code                  19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          19 mins             █████████████████████████   100.00 % 
+Unknown Project          19 mins             █████████████████████████   98.75 % 
+Gladiator-Dev            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
 Windows                  19 mins             █████████████████████████   100.00 % 
@@ -104,7 +106,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2023 00:37:06 UTC
+ Last Updated on 21/05/2023 00:41:47 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
