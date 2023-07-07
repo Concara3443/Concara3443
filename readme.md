@@ -30,9 +30,9 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.4%20million%20lines%20of%20code-blue)
 
@@ -85,10 +85,10 @@ AutoHotkey               16 mins             █░░░░░░░░░░�
 VS Code                  6 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Meditea-DJv2             3 hrs 27 mins       █████████████░░░░░░░░░░░░   50.93 % 
+Meditea-DJv2             3 hrs 27 mins       █████████████░░░░░░░░░░░░   50.92 % 
 Gladiator-Dev            1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
 gd_menu                  55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Unknown Project          50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Unknown Project          50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
 
 💻 Operating System: 
 Windows                  6 hrs 47 mins       █████████████████████████   100.00 % 
@@ -111,7 +111,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2023 00:51:02 UTC
+ Last Updated on 07/07/2023 00:49:07 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
