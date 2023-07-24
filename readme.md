@@ -79,15 +79,15 @@ JavaScript               1 hr 43 mins        ███████████�
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Gladiator-Dev            1 hr 37 mins        ███████████████████████░░   93.76 % 
-gd_menu                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Gladiator-Dev            1 hr 37 mins        ███████████████████████░░   93.74 % 
+gd_menu                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 43 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +107,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2023 00:46:31 UTC
+ Last Updated on 24/07/2023 00:43:06 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
