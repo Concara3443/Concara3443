@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,7 +40,7 @@ const Guillermo = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 128 Contributions in the Year 2023
+> 🏆 129 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -51,21 +51,21 @@ const Guillermo = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                264 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-🌆 Daytime                1085 commits        ██████████░░░░░░░░░░░░░░░   39.24 % 
-🌃 Evening                1300 commits        ████████████░░░░░░░░░░░░░   47.02 % 
-🌙 Night                  116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+🌞 Morning                264 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+🌆 Daytime                1086 commits        ██████████░░░░░░░░░░░░░░░   39.26 % 
+🌃 Evening                1300 commits        ████████████░░░░░░░░░░░░░   47.00 % 
+🌙 Night                  116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   450 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Tuesday                  431 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Wednesday                324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Thursday                 356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Friday                   404 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Saturday                 416 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Sunday                   384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Tuesday                  431 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Wednesday                324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Thursday                 356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Friday                   405 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Saturday                 416 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Sunday                   384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
 ```
 
 
@@ -75,16 +75,16 @@ Sunday                   384 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Gladiator-Dev            2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,7 +104,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2023 00:36:52 UTC
+ Last Updated on 02/09/2023 00:32:49 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
