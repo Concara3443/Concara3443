@@ -90,11 +90,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               36 repos            ████████████████████░░░░░   78.26 % 
-Lua                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-PowerShell               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+JavaScript               36 repos            ████████████████████░░░░░   80.00 % 
+Lua                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
@@ -104,7 +104,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2023 00:36:43 UTC
+ Last Updated on 18/09/2023 00:34:45 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
