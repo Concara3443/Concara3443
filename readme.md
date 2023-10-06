@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,24 +75,22 @@ Sunday                   384 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   1 hr 34 mins        ███████████████░░░░░░░░░░   59.16 % 
-JavaScript               41 mins             ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
-GDScript3                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+JavaScript               2 hrs 26 mins       ██████████████████████░░░   86.91 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-02 Exercicis de programac1 hr 20 mins        █████████████░░░░░░░░░░░░   50.15 % 
-ProfilePicturesPython    25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-whatsapp-profile-download25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-JSwhatsapp-profile-downlo23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+JSwhatsapp-profile-downlo2 hrs 40 mins       ████████████████████████░   95.54 % 
+03 Exercicis d'esquemes a5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+NXT User Guide           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 💻 Operating System: 
-Windows                  2 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,7 +110,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2023 00:35:06 UTC
+ Last Updated on 06/10/2023 00:35:10 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
