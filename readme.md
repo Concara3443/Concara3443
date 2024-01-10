@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,17 +75,21 @@ Sunday                   388 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Lua                      1 hr 30 mins        ████████████████████░░░░░   81.28 % 
-SQL                      20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Lua                      1 hr 30 mins        ████████████░░░░░░░░░░░░░   49.79 % 
+Python                   1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   36.37 % 
+SQL                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-resources                1 hr 51 mins        █████████████████████████   100.00 % 
+resources                1 hr 51 mins        ███████████████░░░░░░░░░░   61.25 % 
+08 fitchers              1 hr 10 mins        ██████████░░░░░░░░░░░░░░░   38.75 % 
 
 💻 Operating System: 
-Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,7 +109,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2024 00:38:09 UTC
+ Last Updated on 10/01/2024 00:38:45 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
