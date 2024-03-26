@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
@@ -75,21 +75,21 @@ Sunday                   394 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   2 hrs 23 mins       ████████████████░░░░░░░░░   64.57 % 
-HTML                     59 mins             ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Python                   3 hrs 12 mins       ██████████████████░░░░░░░   71.01 % 
+HTML                     59 mins             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-love-stats               2 hrs 6 mins        ██████████████░░░░░░░░░░░   56.87 % 
-proecto-inf              1 hr 35 mins        ███████████░░░░░░░░░░░░░░   43.13 % 
+proecto-inf              2 hrs 24 mins       █████████████░░░░░░░░░░░░   53.46 % 
+love-stats               2 hrs 6 mins        ████████████░░░░░░░░░░░░░   46.54 % 
 
 💻 Operating System: 
-Windows                  3 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +109,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2024 00:37:31 UTC
+ Last Updated on 26/03/2024 00:35:33 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
