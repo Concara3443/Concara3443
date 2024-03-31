@@ -73,21 +73,16 @@ Sunday                   394 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   3 hrs 12 mins       ██████████████████░░░░░░░   71.00 % 
-HTML                     59 mins             █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Python                   1 hr 30 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 30 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-proecto-inf              2 hrs 24 mins       █████████████░░░░░░░░░░░░   53.46 % 
-love-stats               2 hrs 6 mins        ████████████░░░░░░░░░░░░░   46.54 % 
+proecto-inf              1 hr 30 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +102,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2024 00:34:31 UTC
+ Last Updated on 31/03/2024 00:39:54 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
