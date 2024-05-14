@@ -40,6 +40,8 @@ const Guillermo = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 143 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -73,20 +75,18 @@ Sunday                   415 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   15 mins             ████████████████████░░░░░   78.66 % 
-Text                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Python                   15 mins             █████████████████████░░░░   82.65 % 
+Text                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+VS Code                  19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Escritorio               14 mins             █████████████████░░░░░░░░   69.98 % 
-Unknown Project          5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
-bot-gladiator            0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Escritorio               14 mins             ██████████████████░░░░░░░   73.53 % 
+Unknown Project          5 mins              ███████░░░░░░░░░░░░░░░░░░   26.47 % 
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +106,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2024 00:38:49 UTC
+ Last Updated on 14/05/2024 00:38:17 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
