@@ -75,21 +75,16 @@ Sunday                   427 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               27 mins             ████████████████░░░░░░░░░   62.10 % 
-Python                   15 mins             █████████░░░░░░░░░░░░░░░░   34.57 % 
-Git                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bot-ticket               25 mins             ██████████████░░░░░░░░░░░   55.78 % 
-streamcord               15 mins             █████████░░░░░░░░░░░░░░░░   35.42 % 
-bot-gladiator            3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +104,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2024 00:39:03 UTC
+ Last Updated on 07/07/2024 00:44:14 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
