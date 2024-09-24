@@ -75,17 +75,17 @@ Sunday                   427 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   5 hrs 41 mins       █████████████████████████   100.00 % 
+Python                   5 hrs 39 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Informatica Avanzada     5 hrs 37 mins       █████████████████████████   98.84 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Informatica Avanzada     5 hrs 37 mins       █████████████████████████   99.39 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
-Windows                  5 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,7 +105,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2024 00:47:10 UTC
+ Last Updated on 24/09/2024 00:46:48 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
