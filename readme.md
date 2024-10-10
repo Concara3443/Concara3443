@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,13 +40,13 @@ const Guillermo = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 177 Contributions in the Year 2024
+> 🏆 176 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 2 Public Repositories 
+> 📜 1 Public Repository 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 0 Private Repository 
  > 
 **I'm an Early 🐤** 
 
@@ -75,21 +75,21 @@ Sunday                   427 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   5 hrs 15 mins       ████████████████████████░   97.84 % 
-Git Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Python                   5 hrs 34 mins       ████████████████████████░   97.96 % 
+Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Informatica Avanzada     1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-proyecto-inf2            1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   28.69 % 
-Proyecto                 1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-Clase                    1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+proyecto-inf2            2 hrs 27 mins       ███████████░░░░░░░░░░░░░░   43.29 % 
+Proyecto                 1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+Clase                    1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Informatica Avanzada     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
 
 💻 Operating System: 
-Windows                  5 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +109,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2024 00:46:35 UTC
+ Last Updated on 10/10/2024 00:46:31 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
