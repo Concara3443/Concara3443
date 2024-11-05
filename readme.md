@@ -13,13 +13,13 @@
 
 ```javascript
 const Guillermo = {
-    code: "Javascript",
+    code: ["Javascript", "Python"],
     askMeAbout: ["Aviation", "Discord Bots", "Tech"],
     technologies: {
         backEnd: {
             js: "Node",
         },
-        devOps: "Heroku",
+        devOps: ["Heroku", "Oracle"],
         databases: "MySql",
     },
     currentFocus: "Discord Bots Development",
