@@ -30,15 +30,17 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2036%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 279 Contributions in the Year 2024
+> 🏆 304 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -46,6 +48,53 @@ const Guillermo = {
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+🌆 Daytime                1206 commits        ███████████░░░░░░░░░░░░░░   42.74 % 
+🌃 Evening                1190 commits        ███████████░░░░░░░░░░░░░░   42.17 % 
+🌙 Night                  146 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   507 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Tuesday                  514 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Wednesday                356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Thursday                 322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Friday                   309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Saturday                 368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Sunday                   446 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+Python                   13 hrs 30 mins      ██████████████████████░░░   86.43 % 
+Text                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Git Config               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+
+🔥 Editors: 
+VS Code                  15 hrs 37 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+auto-tiktok              10 hrs 4 mins       ████████████████░░░░░░░░░   64.46 % 
+proyecto-inf2            4 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+Clase                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+TiktokAutoUploader       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Tiktok-uploader          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+💻 Operating System: 
+Windows                  15 hrs 37 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -63,7 +112,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2024 00:50:38 UTC
+ Last Updated on 11/11/2024 00:48:18 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
