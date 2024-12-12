@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-521%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -75,22 +75,22 @@ Sunday                   472 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-SQL                      1 hr 28 mins        ███████████████░░░░░░░░░░   60.59 % 
-Python                   53 mins             █████████░░░░░░░░░░░░░░░░   36.71 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Python                   1 hr 47 mins        █████████████░░░░░░░░░░░░   50.68 % 
+SQL                      1 hr 28 mins        ███████████░░░░░░░░░░░░░░   42.08 % 
+Text                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ProyectoBBDD             1 hr 28 mins        ███████████████░░░░░░░░░░   60.26 % 
-auto-tiktok              57 mins             ██████████░░░░░░░░░░░░░░░   39.41 % 
-Clase                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+auto-tiktok              2 hrs 2 mins        ██████████████░░░░░░░░░░░   57.92 % 
+ProyectoBBDD             1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   41.85 % 
+Clase                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -110,7 +110,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 11/12/2024 00:53:20 UTC
+ Last Updated on 12/12/2024 00:53:09 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
