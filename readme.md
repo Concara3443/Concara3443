@@ -40,8 +40,6 @@ const Guillermo = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -75,8 +73,8 @@ Sunday                   481 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   6 hrs 59 mins       ████████████████████░░░░░   81.52 % 
-JavaScript               1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Python                   6 hrs 59 mins       ████████████████████░░░░░   81.47 % 
+JavaScript               1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
 Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 Batchfile                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
@@ -85,10 +83,10 @@ JSON                     3 mins              ░░░░░░░░░░░�
 VS Code                  8 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-spotify-wrapped          4 hrs 49 mins       ██████████████░░░░░░░░░░░   56.26 % 
-tesy                     2 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   34.91 % 
+spotify-wrapped          4 hrs 50 mins       ██████████████░░░░░░░░░░░   56.29 % 
+tesy                     2 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   34.89 % 
 Organizador-fotos        30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 💻 Operating System: 
 Windows                  8 hrs 35 mins       █████████████████████████   100.00 % 
@@ -111,7 +109,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2025 00:54:02 UTC
+ Last Updated on 02/01/2025 00:47:15 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
