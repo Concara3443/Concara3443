@@ -30,8 +30,6 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-595%20hrs%2048%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.7%20million%20lines%20of%20code-blue)
@@ -40,7 +38,7 @@ const Guillermo = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 196 Contributions in the Year 2025
+> 🏆 208 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -51,21 +49,21 @@ const Guillermo = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-🌆 Daytime                1706 commits        ███████████░░░░░░░░░░░░░░   44.07 % 
-🌃 Evening                1599 commits        ██████████░░░░░░░░░░░░░░░   41.31 % 
-🌙 Night                  162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+🌞 Morning                407 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+🌆 Daytime                1713 commits        ███████████░░░░░░░░░░░░░░   44.12 % 
+🌃 Evening                1601 commits        ██████████░░░░░░░░░░░░░░░   41.23 % 
+🌙 Night                  162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   690 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Tuesday                  625 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Wednesday                608 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Thursday                 475 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Friday                   373 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Saturday                 529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Sunday                   571 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Monday                   690 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Tuesday                  625 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Wednesday                608 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Thursday                 475 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Friday                   385 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Saturday                 529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Sunday                   571 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
 ```
 
 
@@ -112,7 +110,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2025 00:55:30 UTC
+ Last Updated on 03/05/2025 00:53:57 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
