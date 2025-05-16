@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-607%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -39,6 +39,8 @@ const Guillermo = {
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 246 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -73,22 +75,22 @@ Sunday                   637 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   1 hr 31 mins        ████████████░░░░░░░░░░░░░   46.44 % 
-HTML                     52 mins             ███████░░░░░░░░░░░░░░░░░░   26.61 % 
-JavaScript               43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Python                   59 mins             ██████████░░░░░░░░░░░░░░░   40.83 % 
+JavaScript               42 mins             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+CSS                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Bash                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+HTML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TurnosIbe                2 hrs 33 mins       ████████████████████░░░░░   78.04 % 
-QTM-bot                  27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-bot-gladiator            15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+TurnosIbe                1 hr 42 mins        ██████████████████░░░░░░░   70.30 % 
+QTM-bot                  27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+bot-gladiator            15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
 
 💻 Operating System: 
-Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,7 +110,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2025 00:55:07 UTC
+ Last Updated on 16/05/2025 00:57:32 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
