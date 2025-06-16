@@ -75,7 +75,7 @@ Sunday                   668 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   36.64 % 
+Python                   1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   36.65 % 
 Nginx configuration file 1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   26.53 % 
 Batchfile                1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
 HTML                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
@@ -85,10 +85,11 @@ JavaScript               4 mins              ░░░░░░░░░░░�
 VS Code                  5 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PublicTurnosGF           3 hrs 15 mins       ████████████████░░░░░░░░░   63.79 % 
+PublicTurnosGF           3 hrs 15 mins       ████████████████░░░░░░░░░   63.78 % 
 GitHub                   1 hr 46 mins        █████████░░░░░░░░░░░░░░░░   34.64 % 
 PublicTurnosSouth        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 TurnosIbe                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+te                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
 Windows                  5 hrs 6 mins        █████████████████████████   100.00 % 
@@ -111,7 +112,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2025 01:03:38 UTC
+ Last Updated on 16/06/2025 01:00:04 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
