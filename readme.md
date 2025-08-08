@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -39,8 +39,6 @@ const Guillermo = {
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 272 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -75,24 +73,23 @@ Sunday                   702 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   1 hr 22 mins        ███████████░░░░░░░░░░░░░░   44.12 % 
-JavaScript               51 mins             ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-JSON                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Python                   1 hr 22 mins        ████████████████░░░░░░░░░   63.06 % 
+Markdown                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TurnosIbe                1 hr 31 mins        ████████████░░░░░░░░░░░░░   48.98 % 
-GladiatorDonaciones      1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   34.12 % 
-PublicTurnosSouth        19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-gemini-music-downloader  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-bot-gladiator            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+TurnosIbe                1 hr 31 mins        ██████████████████░░░░░░░   70.01 % 
+PublicTurnosSouth        19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+portfolio                12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+gemini-music-downloader  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 💻 Operating System: 
-Windows                  3 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,7 +109,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2025 01:03:31 UTC
+ Last Updated on 08/08/2025 01:03:15 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
