@@ -40,8 +40,6 @@ const Guillermo = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 272 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -111,7 +109,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2025 01:04:01 UTC
+ Last Updated on 12/08/2025 00:58:39 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
