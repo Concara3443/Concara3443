@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-635%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,20 +75,21 @@ Sunday                   702 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               2 hrs               █████████████████████░░░░   83.53 % 
-HTML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+JavaScript               3 hrs 52 mins       ██████████████████████░░░   86.96 % 
+HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bot-gladiator            2 hrs 1 min         █████████████████████░░░░   84.48 % 
-PublicTurnosSouth        22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+bot-gladiator            4 hrs 4 mins        ███████████████████████░░   91.63 % 
+PublicTurnosSouth        22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 
 💻 Operating System: 
-Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,7 +109,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2025 00:56:29 UTC
+ Last Updated on 17/08/2025 01:03:11 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
