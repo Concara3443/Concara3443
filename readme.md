@@ -40,8 +40,6 @@ const Guillermo = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 297 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -75,21 +73,18 @@ Sunday                   707 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               40 mins             █████████░░░░░░░░░░░░░░░░   35.32 % 
-Python                   33 mins             ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-HTML                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Lua                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+JavaScript               12 mins             █████████████░░░░░░░░░░░░   52.80 % 
+JSON                     9 mins              ██████████░░░░░░░░░░░░░░░   41.28 % 
+Lua                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 
 🔥 Editors: 
-VS Code                  1 hr 54 mins        █████████████████████████   100.00 % 
+VS Code                  23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bot-gladiator            1 hr                █████████████░░░░░░░░░░░░   52.79 % 
-PublicTurnosSouth        54 mins             ████████████░░░░░░░░░░░░░   47.21 % 
+bot-gladiator            23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +104,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2025 00:54:40 UTC
+ Last Updated on 29/08/2025 00:54:41 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
