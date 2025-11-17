@@ -30,6 +30,8 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-659%20hrs%2058%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.1%20million%20lines%20of%20code-blue)
@@ -38,7 +40,7 @@ const Guillermo = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 359 Contributions in the Year 2025
+> 🏆 366 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -46,6 +48,46 @@ const Guillermo = {
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+🌆 Daytime                2289 commits        ███████████░░░░░░░░░░░░░░   44.76 % 
+🌃 Evening                2058 commits        ██████████░░░░░░░░░░░░░░░   40.24 % 
+🌙 Night                  201 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   861 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Tuesday                  816 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Wednesday                855 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Thursday                 592 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Friday                   518 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Saturday                 703 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Sunday                   769 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+Python                   12 mins             ███████████████████████░░   92.15 % 
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+
+🔥 Editors: 
+VS Code                  13 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+jeppesen                 13 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  13 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -63,7 +105,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2025 01:00:45 UTC
+ Last Updated on 17/11/2025 00:58:30 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
