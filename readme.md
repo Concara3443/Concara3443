@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-659%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,17 +75,19 @@ Sunday                   769 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   12 mins             ███████████████████████░░   92.15 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Python                   12 mins             █████████████████░░░░░░░░   69.64 % 
+JavaScript               4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-jeppesen                 13 mins             █████████████████████████   100.00 % 
+jeppesen                 13 mins             ███████████████████░░░░░░   75.57 % 
+QTM-bot                  4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,7 +107,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2025 00:58:30 UTC
+ Last Updated on 18/11/2025 00:57:48 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
