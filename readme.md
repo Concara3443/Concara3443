@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-662%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-663%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -75,16 +75,20 @@ Sunday                   801 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Text                     4 mins              █████████████████████████   100.00 % 
+JavaScript               7 mins              ███████████████░░░░░░░░░░   59.40 % 
+Text                     4 mins              █████████░░░░░░░░░░░░░░░░   36.52 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LEBL                     4 mins              █████████████████████████   100.00 % 
+bot-gladiator            8 mins              ████████████████░░░░░░░░░   63.48 % 
+LEBL                     4 mins              █████████░░░░░░░░░░░░░░░░   36.52 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,7 +108,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 11/12/2025 01:01:40 UTC
+ Last Updated on 12/12/2025 01:00:18 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
