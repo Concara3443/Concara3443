@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -75,20 +75,20 @@ Sunday                   801 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               44 mins             █████████████████░░░░░░░░   69.43 % 
-JSON                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-Text                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+JavaScript               44 mins             ███████████████░░░░░░░░░░   61.27 % 
+JSON                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+Text                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-QTM-bot                  47 mins             ██████████████████░░░░░░░   72.93 % 
-bot-gladiator            17 mins             ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+QTM-bot                  53 mins             ██████████████████░░░░░░░   73.06 % 
+bot-gladiator            19 mins             ███████░░░░░░░░░░░░░░░░░░   26.94 % 
 
 💻 Operating System: 
-Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
+Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,7 +108,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 15/12/2025 01:03:21 UTC
+ Last Updated on 16/12/2025 01:00:48 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
