@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,19 +75,21 @@ Sunday                   801 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Text                     7 mins              ███████████████░░░░░░░░░░   58.23 % 
-Markdown                 5 mins              ██████████░░░░░░░░░░░░░░░   40.28 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Text                     7 mins              ██████████░░░░░░░░░░░░░░░   39.55 % 
+JavaScript               6 mins              ████████░░░░░░░░░░░░░░░░░   31.63 % 
+Markdown                 5 mins              ███████░░░░░░░░░░░░░░░░░░   26.91 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+VS Code                  19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-guilermoparallax-portfoli12 mins             █████████████████████████   100.00 % 
+guilermoparallax-portfoli12 mins             █████████████████░░░░░░░░   66.81 % 
+QTM-bot                  6 mins              ████████░░░░░░░░░░░░░░░░░   33.19 % 
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +109,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 23/12/2025 01:00:23 UTC
+ Last Updated on 24/12/2025 01:00:09 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
