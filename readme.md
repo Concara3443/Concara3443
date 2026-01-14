@@ -40,11 +40,11 @@ const Guillermo = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 86 Contributions in the Year 2026
+> 🏆 87 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 8 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -75,20 +75,20 @@ Sunday                   770 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               1 hr 47 mins        ██████████████░░░░░░░░░░░   57.99 % 
-JSON                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-SQL                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-EJS                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Markdown                 14 mins             ████████░░░░░░░░░░░░░░░░░   33.31 % 
+SQL                      13 mins             ████████░░░░░░░░░░░░░░░░░   31.30 % 
+JavaScript               9 mins              ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+Bash                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  42 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-web-gladiator            3 hrs 5 mins        █████████████████████████   100.00 % 
+web-gladiator            42 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  42 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,7 +108,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 13/01/2026 00:59:26 UTC
+ Last Updated on 14/01/2026 01:04:08 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
