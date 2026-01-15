@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-686%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-686%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -75,20 +75,16 @@ Sunday                   770 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 14 mins             ████████░░░░░░░░░░░░░░░░░   33.31 % 
-SQL                      13 mins             ████████░░░░░░░░░░░░░░░░░   31.30 % 
-JavaScript               9 mins              ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-Bash                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+C#                       5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.00 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-web-gladiator            42 mins             █████████████████████████   100.00 % 
+vPilot-Pushover          5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.00 % 
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,7 +104,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2026 01:04:08 UTC
+ Last Updated on 15/01/2026 01:01:17 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
