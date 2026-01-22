@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-687%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-688%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -75,21 +75,20 @@ Sunday                   770 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Git Config               17 mins             ██████████████░░░░░░░░░░░   57.21 % 
-C#                       5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Bash                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-SQL                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+TypeScript               46 mins             ████████████████░░░░░░░░░   62.74 % 
+Git Config               17 mins             ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+SQL                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dayz-armored-discord-bot 25 mins             █████████████████████░░░░   82.47 % 
-vPilot-Pushover          5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+dayz-armored-discord-bot 1 hr 13 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +108,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2026 01:04:00 UTC
+ Last Updated on 22/01/2026 01:04:44 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
