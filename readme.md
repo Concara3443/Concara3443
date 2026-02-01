@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-688%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-688%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -75,16 +75,15 @@ Sunday                   804 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Git Config               7 mins              ██████████████░░░░░░░░░░░   56.19 % 
-JavaScript               5 mins              ███████████░░░░░░░░░░░░░░   43.01 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+JavaScript               13 mins             █████████████████████████   99.21 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🔥 Editors: 
 VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MediteaDJv4              13 mins             █████████████████████████   99.20 % 
-ChatStats                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Unknown Project          13 mins             █████████████████████████   99.21 % 
+ChatStats                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 💻 Operating System: 
 Windows                  13 mins             █████████████████████████   100.00 % 
@@ -107,7 +106,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2026 01:08:37 UTC
+ Last Updated on 01/02/2026 01:23:26 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
