@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-691%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-692%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -75,22 +75,22 @@ Sunday                   804 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JSON                     45 mins             ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-Python                   40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-JavaScript               33 mins             █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Text                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-XML                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Python                   1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   37.86 % 
+JSON                     1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+JavaScript               37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+XML                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-acarsproject             2 hrs 42 mins       ███████████████████████░░   92.42 % 
-Unknown Project          13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-ChatStats                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+acarsproject             4 hrs 9 mins        ███████████████████████░░   93.45 % 
+Unknown Project          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+aaa                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 💻 Operating System: 
-Windows                  2 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -110,7 +110,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2026 01:16:32 UTC
+ Last Updated on 04/02/2026 01:11:15 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
