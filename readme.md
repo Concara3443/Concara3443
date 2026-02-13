@@ -30,11 +30,11 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-692%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-693%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.35%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.74%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -51,21 +51,21 @@ const Guillermo = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                629 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-🌆 Daytime                2645 commits        ███████████░░░░░░░░░░░░░░   45.52 % 
-🌃 Evening                2320 commits        ██████████░░░░░░░░░░░░░░░   39.92 % 
-🌙 Night                  217 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+🌞 Morning                596 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+🌆 Daytime                2544 commits        ███████████░░░░░░░░░░░░░░   45.81 % 
+🌃 Evening                2201 commits        ██████████░░░░░░░░░░░░░░░   39.64 % 
+🌙 Night                  212 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1017 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Tuesday                  920 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Wednesday                967 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Thursday                 671 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Friday                   582 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Saturday                 803 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Sunday                   851 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Monday                   994 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Tuesday                  894 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Wednesday                923 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Thursday                 633 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Friday                   532 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Saturday                 769 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Sunday                   808 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
 ```
 
 
@@ -75,16 +75,20 @@ Sunday                   851 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 mins              ███████████░░░░░░░░░░░░░░   44.85 % 
+TSConfig                 4 mins              ███████████░░░░░░░░░░░░░░   42.01 % 
+Git Config               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+parcheesi-online         10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,7 +108,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2026 01:16:48 UTC
+ Last Updated on 13/02/2026 01:20:19 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
