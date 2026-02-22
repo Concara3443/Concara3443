@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-693%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-694%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -75,18 +75,20 @@ Sunday                   857 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-TypeScript               39 mins             ██████████████████░░░░░░░   70.12 % 
-JSON                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-TSConfig                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+TypeScript               1 hr 2 mins         █████████████████░░░░░░░░   66.97 % 
+JSON                     22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+TSConfig                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  56 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dayz-armored-discord-bot 56 mins             █████████████████████████   100.00 % 
+dayz-armored-discord-bot 1 hr 33 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +108,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2026 01:10:55 UTC
+ Last Updated on 22/02/2026 01:17:12 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
