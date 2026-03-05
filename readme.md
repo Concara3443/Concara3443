@@ -30,7 +30,7 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-696%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-696%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -75,20 +75,22 @@ Sunday                   743 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Text                     46 mins             ██████████████░░░░░░░░░░░   55.93 % 
-JavaScript               24 mins             ███████░░░░░░░░░░░░░░░░░░   29.10 % 
-JSON                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Batchfile                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Text                     25 mins             ████████████░░░░░░░░░░░░░   47.76 % 
+JavaScript               13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+JSON                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Batchfile                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-VS Code                  1 hr 24 mins        █████████████████████████   100.00 % 
+VS Code                  53 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bot-gladiator            1 hr 4 mins         ███████████████████░░░░░░   76.61 % 
-bot-ticket               19 mins             ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+bot-gladiator            31 mins             ███████████████░░░░░░░░░░   58.77 % 
+bot-ticket               19 mins             █████████░░░░░░░░░░░░░░░░   36.91 % 
+aaaaaaaa                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 💻 Operating System: 
-Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
+Windows                  53 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,7 +110,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 04/03/2026 01:12:19 UTC
+ Last Updated on 05/03/2026 01:14:49 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
