@@ -30,6 +30,8 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-747%20hrs%2047%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.21%20million%20lines%20of%20code-blue?style=flat)
@@ -73,20 +75,16 @@ Sunday                   1088 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Other                    18 mins             █████████████████████░░░░   85.75 % 
-Python                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             ██████████████░░░░░░░░░░░   57.90 % 
-Claude Code              9 mins              ███████████░░░░░░░░░░░░░░   42.10 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          11 mins             █████████████░░░░░░░░░░░░   51.27 % 
-fpl                      10 mins             ████████████░░░░░░░░░░░░░   48.73 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +104,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 02:37:14 UTC
+ Last Updated on 08/06/2026 02:42:40 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
