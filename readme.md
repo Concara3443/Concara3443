@@ -75,18 +75,16 @@ Sunday                   1182 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-XML                      19 mins             █████████████████████░░░░   82.78 % 
-Other                    4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-addons                   21 mins             ███████████████████████░░   90.16 % 
-Unknown Project          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +104,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2026 01:59:38 UTC
+ Last Updated on 04/07/2026 01:58:24 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
