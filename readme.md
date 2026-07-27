@@ -75,24 +75,23 @@ Sunday                   1210 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   4 hrs 15 mins       ███████████████████░░░░░░   75.36 % 
-Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Text                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Python                   3 hrs 50 mins       ████████████████████░░░░░   81.17 % 
+Text                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 10 mins       ███████████████████████░░   91.69 % 
-VS Code                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Claude Code              4 hrs 34 mins       ████████████████████████░   96.71 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 🐱‍💻 Projects: 
-planner                  3 hrs 32 mins       ████████████████░░░░░░░░░   62.71 % 
-nocturnos                54 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-scripts                  39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-output                   31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+planner                  3 hrs 32 mins       ███████████████████░░░░░░   74.85 % 
+scripts                  39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+output                   31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
 
 💻 Operating System: 
-Windows                  5 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,7 +111,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 01:52:35 UTC
+ Last Updated on 27/07/2026 01:59:50 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
