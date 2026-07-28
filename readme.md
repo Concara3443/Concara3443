@@ -30,7 +30,9 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-763%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-750%20hrs%2019%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-60%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -94,6 +96,29 @@ output                   31 mins             ███░░░░░░░░�
 Windows                  4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 41 mins (99.18%)
+
+✍️ 4,358 lines written by AI, 8 lines written by hand (99.82% AI-written)
+
+🔤 240,651,410 Input Tokens, 523,589 Output Tokens
+
+💵 $838.01 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 62 AI Prompts
+
+Sonnet                   3,282 lines         ███████████████████░░░░░░   74.12 % 
+Opus                     1,146 lines         ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.82% of written lines came from AI
+📚 Verbose Prompter — average 1,562 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.25% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -111,7 +136,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 01:59:50 UTC
+ Last Updated on 28/07/2026 01:43:21 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
