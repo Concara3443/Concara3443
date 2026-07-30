@@ -30,6 +30,10 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-750%20hrs%2019%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-60%20hrs%2037%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.54%20million%20lines%20of%20code-blue?style=flat)
@@ -73,46 +77,44 @@ Sunday                   1210 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   2 hrs 24 mins       █████████████████████░░░░   82.99 % 
-Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-CSV                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Python                   2 hrs 10 mins       █████████████████████░░░░   85.58 % 
+Text                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Batchfile                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 45 mins       ████████████████████████░   94.65 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Claude Code              2 hrs 25 mins       ████████████████████████░   95.73 % 
+VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 🐱‍💻 Projects: 
-planner                  2 hrs 50 mins       ████████████████████████░   97.38 % 
-scripts                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-output                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+planner                  2 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 52 mins (98.67%)
+⏱ AI Coding Time: 2 hrs 29 mins (98.47%)
 
-✍️ 2,506 lines written by AI, 8 lines written by hand (99.68% AI-written)
+✍️ 1,095 lines written by AI, 8 lines written by hand (99.27% AI-written)
 
-🔤 70,051,888 Input Tokens, 345,151 Output Tokens
+🔤 53,466,078 Input Tokens, 237,875 Output Tokens
 
-💵 $323.53 Estimated AI Cost This Week
+💵 $272.94 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 45 AI Prompts
+🧠 2 AI Sessions, 26 AI Prompts
 
-Sonnet                   1,413 lines         ██████████████░░░░░░░░░░░   55.22 % 
-Opus                     1,146 lines         ███████████░░░░░░░░░░░░░░   44.78 % 
+Opus                     1,146 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.68% of written lines came from AI
-📚 Verbose Prompter — average 1,950 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.43% of changed lines were hand-edited
+🤖 AI-Driven — 99.27% of written lines came from AI
+📝 Concise Prompter — average 201 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 0.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -132,7 +134,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 01:46:00 UTC
+ Last Updated on 30/07/2026 01:27:30 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
