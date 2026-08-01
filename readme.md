@@ -77,44 +77,41 @@ Sunday                   1210 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   2 hrs 10 mins       █████████████████████░░░░   85.58 % 
-Text                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Batchfile                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Python                   39 mins             ████████████████████░░░░░   79.16 % 
+Text                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 25 mins       ████████████████████████░   95.73 % 
-VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Claude Code              46 mins             ███████████████████████░░   93.88 % 
+VS Code                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 
 🐱‍💻 Projects: 
-planner                  2 hrs 32 mins       █████████████████████████   100.00 % 
+planner                  49 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  49 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 29 mins (98.47%)
+⏱ AI Coding Time: 47 mins (95.34%)
 
-✍️ 1,095 lines written by AI, 8 lines written by hand (99.27% AI-written)
+✍️ 166 lines written by AI, 8 lines written by hand (95.4% AI-written)
 
-🔤 53,466,078 Input Tokens, 237,875 Output Tokens
+🔤 25,313,459 Input Tokens, 63,064 Output Tokens
 
-💵 $272.94 Estimated AI Cost This Week
+💵 $128.14 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 26 AI Prompts
+🧠 1 AI Sessions, 8 AI Prompts
 
-Opus                     1,146 lines         █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     180 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.27% of written lines came from AI
-📝 Concise Prompter — average 201 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.95% of changed lines were hand-edited
+🤖 AI-Driven — 95.4% of written lines came from AI
+📝 Concise Prompter — average 200 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 5.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -134,7 +131,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 01:54:18 UTC
+ Last Updated on 01/08/2026 01:56:26 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
