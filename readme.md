@@ -77,42 +77,45 @@ Sunday                   1210 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   22 mins             ████████████░░░░░░░░░░░░░   48.22 % 
-Markdown                 12 mins             ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-Batchfile                6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-JSON                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Python                   27 mins             ████████████░░░░░░░░░░░░░   47.77 % 
+Markdown                 12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Batchfile                6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+JSON                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
 
 🔥 Editors: 
-Claude Code              42 mins             ███████████████████████░░   93.27 % 
-VS Code                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Claude Code              54 mins             ████████████████████████░   94.60 % 
+VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 🐱‍💻 Projects: 
-CerrarVuelos             45 mins             █████████████████████████   100.00 % 
+CerrarVuelos             52 mins             ███████████████████████░░   91.36 % 
+Downloads                4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+addons2                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 💻 Operating System: 
-Windows                  45 mins             █████████████████████████   100.00 % 
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (100.0%)
+⏱ AI Coding Time: 57 mins (100.0%)
 
-✍️ 929 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 983 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 18,152,833 Input Tokens, 108,583 Output Tokens
+🔤 23,028,791 Input Tokens, 133,185 Output Tokens
 
-💵 $56.09 Estimated AI Cost This Week
+💵 $70.96 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 11 AI Prompts
+🧠 3 AI Sessions, 16 AI Prompts
 
-Sonnet                   933 lines           █████████████████████████   100.00 % 
+Sonnet                   987 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 390 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.43% of changed lines were hand-edited
+📝 Concise Prompter — average 317 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -132,7 +135,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 01:29:15 UTC
+ Last Updated on 05/08/2026 01:43:47 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
