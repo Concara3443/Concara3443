@@ -30,6 +30,10 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%205%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2023%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.54%20million%20lines%20of%20code-blue?style=flat)
@@ -46,6 +50,71 @@ const Guillermo = {
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1077 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+🌆 Daytime                3591 commits        ███████████░░░░░░░░░░░░░░   43.18 % 
+🌃 Evening                3082 commits        █████████░░░░░░░░░░░░░░░░   37.06 % 
+🌙 Night                  566 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1252 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Tuesday                  1429 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Wednesday                1359 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Thursday                 1123 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Friday                   919 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Saturday                 1024 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Sunday                   1210 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+Python                   27 mins             █████████████░░░░░░░░░░░░   52.09 % 
+Markdown                 12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+Batchfile                6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+JSON                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+
+🔥 Editors: 
+Claude Code              49 mins             ████████████████████████░   94.09 % 
+VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+
+🐱‍💻 Projects: 
+CerrarVuelos             52 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  52 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 52 mins (100.0%)
+
+✍️ 983 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 21,997,901 Input Tokens, 120,769 Output Tokens
+
+💵 $68.02 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 13 AI Prompts
+
+Sonnet                   987 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 364 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 0.4% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -63,7 +132,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:10:36 UTC
+ Last Updated on 08/08/2026 00:55:33 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
