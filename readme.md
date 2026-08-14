@@ -107,11 +107,11 @@ Windows                  5 hrs 48 mins       ███████████�
 
 🔤 32,572,201 Input Tokens, 401,425 Output Tokens
 
-💵 $245.14 Estimated AI Cost This Week
+💵 $239.80 Estimated AI Cost This Week
 
 🧠 3 AI Sessions, 37 AI Prompts
 
-Opus                     4,751 lines         █████████████████████████   100.00 % 
+Opus                     4,593 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
@@ -138,7 +138,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 01:08:48 UTC
+ Last Updated on 14/08/2026 01:08:00 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
