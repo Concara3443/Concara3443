@@ -77,42 +77,22 @@ Sunday                   1210 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   20 mins             ████████████░░░░░░░░░░░░░   48.41 % 
-Markdown                 16 mins             ██████████░░░░░░░░░░░░░░░   39.27 % 
-Batchfile                5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              41 mins             █████████████████████████   98.97 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Claude Code              0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Autoschedlr              28 mins             █████████████████░░░░░░░░   68.53 % 
-codigo                   13 mins             ████████░░░░░░░░░░░░░░░░░   31.47 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 mins (100.0%)
-
-✍️ 505 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 437,729 Input Tokens, 47,736 Output Tokens
-
-💵 $18.35 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 6 AI Prompts
-
-Opus                     513 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,440 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -132,7 +112,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 00:41:53 UTC
+ Last Updated on 20/08/2026 00:42:18 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
