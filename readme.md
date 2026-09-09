@@ -42,7 +42,7 @@ const Guillermo = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 521 Contributions in the Year 2026
+> 🏆 522 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -53,21 +53,21 @@ const Guillermo = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1066 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+🌞 Morning                1067 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
 🌆 Daytime                3601 commits        ███████████░░░░░░░░░░░░░░   43.65 % 
-🌃 Evening                3057 commits        █████████░░░░░░░░░░░░░░░░   37.06 % 
+🌃 Evening                3057 commits        █████████░░░░░░░░░░░░░░░░   37.05 % 
 🌙 Night                  525 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   1247 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Tuesday                  1394 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Wednesday                1369 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Tuesday                  1395 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Wednesday                1369 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
 Thursday                 1102 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
 Friday                   895 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
 Saturday                 1024 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Sunday                   1218 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Sunday                   1218 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
 ```
 
 
@@ -77,46 +77,44 @@ Sunday                   1218 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   1 hr 48 mins        ███████████░░░░░░░░░░░░░░   44.53 % 
-Markdown                 1 hr 37 mins        ██████████░░░░░░░░░░░░░░░   40.00 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Python                   1 hr 48 mins        █████████████░░░░░░░░░░░░   52.77 % 
+Markdown                 59 mins             ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 32 mins       ██████████████████████░░░   87.72 % 
-VS Code                  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Claude Code              2 hrs 54 mins       █████████████████████░░░░   85.45 % 
+VS Code                  29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
 
 🐱‍💻 Projects: 
-COMERCIAL - Autoschedlr  2 hrs 36 mins       ████████████████░░░░░░░░░   64.57 % 
-extension                29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-gods-eye-view            27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-gatemanager              18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-spy                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+COMERCIAL - Autoschedlr  2 hrs 36 mins       ███████████████████░░░░░░   76.52 % 
+extension                29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+gatemanager              18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
 
 💻 Operating System: 
-Windows                  4 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 49 mins (94.42%)
+⏱ AI Coding Time: 3 hrs 11 mins (93.39%)
 
 ✍️ 6,486 lines written by AI, 3 lines written by hand (99.95% AI-written)
 
-🔤 3,526,007 Input Tokens, 488,916 Output Tokens
+🔤 3,358,699 Input Tokens, 446,232 Output Tokens
 
-💵 $131.06 Estimated AI Cost This Week
+💵 $108.19 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 17 AI Prompts
+🧠 4 AI Sessions, 16 AI Prompts
 
 Opus                     6,519 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 7,077 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 7,512 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
@@ -137,7 +135,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 02:05:10 UTC
+ Last Updated on 09/09/2026 02:10:31 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
