@@ -77,45 +77,44 @@ Sunday                   1218 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   1 hr 48 mins        █████████████░░░░░░░░░░░░   52.77 % 
-Markdown                 59 mins             ███████░░░░░░░░░░░░░░░░░░   28.90 % 
-JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Python                   1 hr 47 mins        ███████████████░░░░░░░░░░   58.02 % 
+Markdown                 40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 54 mins       █████████████████████░░░░   85.45 % 
-VS Code                  29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Claude Code              2 hrs 35 mins       █████████████████████░░░░   83.95 % 
+VS Code                  29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
 
 🐱‍💻 Projects: 
-COMERCIAL - Autoschedlr  2 hrs 36 mins       ███████████████████░░░░░░   76.52 % 
-extension                29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-gatemanager              18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+COMERCIAL - Autoschedlr  2 hrs 36 mins       █████████████████████░░░░   84.42 % 
+extension                28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
 
 💻 Operating System: 
-Windows                  3 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 11 mins (93.39%)
+⏱ AI Coding Time: 2 hrs 52 mins (92.71%)
 
-✍️ 6,486 lines written by AI, 3 lines written by hand (99.95% AI-written)
+✍️ 6,062 lines written by AI, 3 lines written by hand (99.95% AI-written)
 
-🔤 3,358,699 Input Tokens, 446,232 Output Tokens
+🔤 3,104,815 Input Tokens, 395,917 Output Tokens
 
-💵 $108.19 Estimated AI Cost This Week
+💵 $102.80 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 16 AI Prompts
+🧠 2 AI Sessions, 10 AI Prompts
 
-Opus                     6,519 lines         █████████████████████████   100.00 % 
+Opus                     6,095 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 7,512 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.17% of changed lines were hand-edited
+📚 Verbose Prompter — average 11,975 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.18% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -135,7 +134,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 02:10:31 UTC
+ Last Updated on 10/09/2026 02:07:13 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
