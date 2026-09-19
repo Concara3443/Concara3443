@@ -30,9 +30,9 @@ const Guillermo = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-761%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-764%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -77,45 +77,47 @@ Sunday                   1249 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   1 hr 24 mins        ████████████░░░░░░░░░░░░░   48.89 % 
-Markdown                 1 hr 1 min          █████████░░░░░░░░░░░░░░░░   35.88 % 
-JSON                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Python                   3 hrs 30 mins       ██████████████████░░░░░░░   71.27 % 
+Markdown                 1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 48 mins       ████████████████████████░   97.67 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Claude Code              2 hrs 56 mins       ███████████████░░░░░░░░░░   59.83 % 
+VS Code                  1 hr 58 mins        ██████████░░░░░░░░░░░░░░░   40.17 % 
 
 🐱‍💻 Projects: 
-Autoschedlr              1 hr 48 mins        ████████████████░░░░░░░░░   63.13 % 
-ExtensionPrUtils         18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-autoschedlr-github       16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-codigo                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Files                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+prototipoSchudler        2 hrs 36 mins       █████████████░░░░░░░░░░░░   53.03 % 
+Autoschedlr              1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+codigo                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+autoschedlr-github       21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 💻 Operating System: 
-Windows                  2 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 48 mins (97.67%)
+⏱ AI Coding Time: 3 hrs 51 mins (78.28%)
 
-✍️ 1,471 lines written by AI, 1 lines written by hand (99.93% AI-written)
+✍️ 3,115 lines written by AI, 31 lines written by hand (99.01% AI-written)
 
-🔤 810,996 Input Tokens, 187,375 Output Tokens
+🔤 1,565,989 Input Tokens, 339,868 Output Tokens
 
-💵 $35.44 Estimated AI Cost This Week
+💵 $53.28 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 13 AI Prompts
+🧠 7 AI Sessions, 64 AI Prompts
 
-Opus                     1,473 lines         █████████████████████████   100.00 % 
+Opus                     6,063 lines         █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📝 Concise Prompter — average 284 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
+🤖 AI-Driven — 99.01% of written lines came from AI
+📝 Concise Prompter — average 105 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 2.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -135,7 +137,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 02:12:39 UTC
+ Last Updated on 19/09/2026 02:15:30 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
