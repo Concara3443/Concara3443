@@ -77,47 +77,22 @@ Sunday                   1277 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   2 hrs 51 mins       ██████████████████████░░░   88.13 % 
-Markdown                 21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 54 mins        ███████████████░░░░░░░░░░   59.10 % 
-Claude Code              1 hr 19 mins        ██████████░░░░░░░░░░░░░░░   40.90 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-prototipoSchudler        2 hrs 36 mins       ████████████████████░░░░░   80.75 % 
-codigo                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-autoschedlr-github       8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-SBD_Programacion         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 14 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 13 mins (69.0%)
-
-✍️ 2,034 lines written by AI, 30 lines written by hand (98.55% AI-written)
-
-🔤 1,094,493 Input Tokens, 259,351 Output Tokens
-
-💵 $31.27 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 61 AI Prompts
-
-Opus                     4,980 lines         █████████████████████████   100.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.55% of written lines came from AI
-📝 Concise Prompter — average 104 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 2.85% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -137,7 +112,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 02:32:16 UTC
+ Last Updated on 26/09/2026 02:35:55 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
