@@ -77,45 +77,45 @@ Sunday                   1337 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   30.30 % 
-Other                    1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-PowerShell               1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Markdown                 1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-HTML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Python                   2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+Other                    1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+PowerShell               1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Markdown                 1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+HTML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 46 mins       █████████████████████████   99.44 % 
+Claude Code              7 hrs 42 mins       █████████████████████████   99.44 % 
 VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🐱‍💻 Projects: 
-corte                    2 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   36.28 % 
-informeRosa              2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   35.33 % 
-stabletest               1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-PanelMultimedia          55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-scripts                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+corte                    2 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   36.61 % 
+informeRosa              2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   35.65 % 
+stabletest               1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+PanelMultimedia          55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+scripts                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 💻 Operating System: 
-Windows                  7 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 48 mins (99.82%)
+⏱ AI Coding Time: 7 hrs 44 mins (99.82%)
 
-✍️ 2,503 lines written by AI, 1 lines written by hand (99.96% AI-written)
+✍️ 2,412 lines written by AI, 1 lines written by hand (99.96% AI-written)
 
-🔤 1,379,478 Input Tokens, 491,186 Output Tokens
+🔤 1,311,029 Input Tokens, 466,483 Output Tokens
 
-💵 $35.06 Estimated AI Cost This Week
+💵 $32.02 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 68 AI Prompts
+🧠 10 AI Sessions, 62 AI Prompts
 
-Opus                     2,509 lines         █████████████████████████   100.00 % 
+Opus                     2,418 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.96% of written lines came from AI
-📄 Detailed Prompter — average 1,378 characters per prompt
+📄 Detailed Prompter — average 1,498 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
@@ -137,7 +137,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 02:09:21 UTC
+ Last Updated on 18/10/2026 02:08:37 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
