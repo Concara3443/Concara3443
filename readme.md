@@ -34,7 +34,7 @@ const Guillermo = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2013%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.28%20million%20lines%20of%20code-blue?style=flat)
 
@@ -77,45 +77,44 @@ Sunday                   1349 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-PowerShell               40 mins             ██████████░░░░░░░░░░░░░░░   38.17 % 
-Markdown                 32 mins             ████████░░░░░░░░░░░░░░░░░   30.80 % 
-Python                   24 mins             ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-Batchfile                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Python                   10 mins             ████████████░░░░░░░░░░░░░   46.36 % 
+PowerShell               8 mins              █████████░░░░░░░░░░░░░░░░   37.16 % 
+JSON                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Claude Code              1 hr 42 mins        ████████████████████████░   97.51 % 
-VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Claude Code              20 mins             ██████████████████████░░░   88.87 % 
+VS Code                  2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
 
 🐱‍💻 Projects: 
-stabletest               1 hr 2 mins         ███████████████░░░░░░░░░░   59.35 % 
-corte                    40 mins             ██████████░░░░░░░░░░░░░░░   38.17 % 
-Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+stabletest               12 mins             █████████████░░░░░░░░░░░░   51.71 % 
+corte                    8 mins              █████████░░░░░░░░░░░░░░░░   37.16 % 
+Unknown Project          2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
 
 💻 Operating System: 
-Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 44 mins (99.21%)
+⏱ AI Coding Time: 22 mins (96.44%)
 
-✍️ 454 lines written by AI, 1 lines written by hand (99.78% AI-written)
+✍️ 226 lines written by AI, 1 lines written by hand (99.56% AI-written)
 
-🔤 297,297 Input Tokens, 50,611 Output Tokens
+🔤 15,613 Input Tokens, 18,539 Output Tokens
 
-💵 $4.45 Estimated AI Cost This Week
+💵 $0.95 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 19 AI Prompts
+🧠 3 AI Sessions, 6 AI Prompts
 
-Opus                     455 lines           █████████████████████████   100.00 % 
+Opus                     227 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.78% of written lines came from AI
-📝 Concise Prompter — average 498 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.22% of changed lines were hand-edited
+🤖 AI-Driven — 99.56% of written lines came from AI
+📄 Detailed Prompter — average 1,146 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -135,7 +134,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 02:30:39 UTC
+ Last Updated on 23/10/2026 02:35:32 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
