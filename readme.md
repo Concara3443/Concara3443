@@ -77,44 +77,22 @@ Sunday                   1349 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   10 mins             ████████████░░░░░░░░░░░░░   46.36 % 
-PowerShell               8 mins              █████████░░░░░░░░░░░░░░░░   37.16 % 
-JSON                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              20 mins             ██████████████████████░░░   88.87 % 
-VS Code                  2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-stabletest               12 mins             █████████████░░░░░░░░░░░░   51.71 % 
-corte                    8 mins              █████████░░░░░░░░░░░░░░░░   37.16 % 
-Unknown Project          2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (96.44%)
-
-✍️ 226 lines written by AI, 1 lines written by hand (99.56% AI-written)
-
-🔤 15,613 Input Tokens, 18,539 Output Tokens
-
-💵 $0.95 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 6 AI Prompts
-
-Opus                     227 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.56% of written lines came from AI
-📄 Detailed Prompter — average 1,146 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.44% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -134,7 +112,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Concara3443/Concara3443/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 02:35:32 UTC
+ Last Updated on 24/10/2026 02:33:23 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
